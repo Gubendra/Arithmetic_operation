@@ -2,3 +2,4 @@ Addition
 Subtraction
 Multiplication
 Division
+Multiplication with Addition
